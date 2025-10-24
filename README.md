@@ -1,2 +1,2 @@
 # frontend
-frontend of the aplication
+frontend of the application
